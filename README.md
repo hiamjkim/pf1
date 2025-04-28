@@ -11,7 +11,11 @@
 2025년 3월 ~ 2025년 4월 (4주)
 
 ## 사용 기술
-HTML, CSS, JavaScript, Figma, Git
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Git
 
 ## 사용 AI
 
